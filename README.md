@@ -20,7 +20,7 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/antonio-m-castillo/">
-    ![Linkedin: antonio castillo ](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: antonio castillo ](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/anthony_c_m_/">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
