@@ -75,12 +75,11 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![antoniocmizv's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antoniocmizv&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="antoniocmizv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=antoniocmizv&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
-Credit: [Berkeli](https://github.com/Berkeli)
-Last Edited on: 02/01/2023
+
