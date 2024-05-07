@@ -22,11 +22,8 @@
 <a href="https://www.linkedin.com/in/antonio-m-castillo/">
     ![Linkedin: antonio castillo ](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://www.instagram.com/anthony_c_m_/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
 <a href="https://github.com/antoniocmizv">
-    ![GitHub: antoniocmizv](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub: antoniocmizv](https://img.shields.io/github/followers/antonio?label=follow&style=social)
 </a>
 
 
@@ -38,15 +35,9 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
