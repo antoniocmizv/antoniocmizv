@@ -6,11 +6,14 @@
 <h3 align="left">Hi 👋, I'm Antonio Castillo i´m a full stack web developer from Spain.</h3>
 &emsp;
 
-<h3> Repository of: "Desarrollo de aplicaciones web en entorno servidor"</h3>
-<a href="https://github.com/antoniocmizv/DAWES">Enlace</a>
+<h3> Repositorios de :"Desarrollo de aplicaciones web en entorno servidor"</h3>
 
 Ejercicio CRUD 
 <a href="https://github.com/antoniocmizv/pokeApp">Crud a una BD en PHP</a>
+
+
+Ejercicio CRUD 
+<a href="[https://github.com/antoniocmizv/pokeApp](https://github.com/antoniocmizv/laravelPokeApp)">Crud a una BD en Laravel</a>
 
 
 -------------------
