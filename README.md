@@ -13,7 +13,9 @@ Ejercicio CRUD
 
 
 Ejercicio CRUD 
-<a href="[https://github.com/antoniocmizv/pokeApp](https://github.com/antoniocmizv/laravelPokeApp)">Crud a una BD en Laravel</a>
+<a href="https://github.com/antoniocmizv/laravelPokeApp">Crud a una BD en Laravel</a>
+
+
 
 
 -------------------
